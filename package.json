@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@excalidraw/excalidraw": "^0.17.0",
-    "@excalimath/core": "^1.1.3",
+    "@excalimath/core": "^1.1.4",
     "katex": "^0.16.0",
     "mathjs": "^15.1.1",
     "plotly.js-dist-min": "^3.5.0",
