@@ -13,7 +13,7 @@
     "@excalimath/core": "^1.1.4",
     "katex": "^0.18.1",
     "mathjs": "^15.2.0",
-    "plotly.js-dist-min": "^3.5.0",
+    "plotly.js-dist-min": "^3.7.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
